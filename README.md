@@ -46,6 +46,4 @@ This Python project captures images from the webcam using OpenCV.
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
 
-- The project was inspired by [source or reference if applicable].
